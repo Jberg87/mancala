@@ -17,6 +17,8 @@ public class KleinVak extends Vak{
     public void maakLeeg() {
         setStenen(0);
     }
+// !!!
+
 
     @Override
     public void ontvang(int stenen) {
